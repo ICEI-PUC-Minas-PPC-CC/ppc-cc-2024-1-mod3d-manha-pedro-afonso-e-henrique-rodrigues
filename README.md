@@ -1,41 +1,29 @@
-# TÍTULO DO PROJETO
+TRABALHO BLENDER 
 
-`PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+PPC-CC: PUC Poços de Caldas - Ciência da Computação
+Disciplina: Modelagem 3D
+2024 - Semestre 2
 
-## Integrantes
+# Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+-Pedro Afonso Braga Romano Ribeiro
+-Henrique Rodrigues Martins
 
-## Professor
+#Professor
 
-- Mestre Yoda
+- Will Ricardo dos Santos Machado
 
 # Documentação
 
-<ol>
-<li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/3-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/4-Metodologia.md"> Metodologia</a></li>
-<li><a href="docs/5-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/6-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/7-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/8-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/9-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Referências.md"> Referências</a></li>
-</ol>
+A computação gráfica foi algo que realmente comecei a gostar neste semestre. A evolução que percebi ao longo do período usando o Blender foi clara e muito divertida. A apresentação final, aplicando os conhecimentos adquiridos nas aulas e assistindo aos vídeos disponibilizados pelo professor Will, resultou em uma escultura de um alien. Foi uma experiência extremamente divertida e gratificante, e acredito que esta não será a última vez que vou usar o Blender.
 
 # Código
+Foto do projeto pronto
+![image](https://github.com/user-attachments/assets/9d79d0ab-fa21-4d6c-82f7-a8e665609bb8)
+Background usado
+![WhatsApp Image 2024-12-04 at 00 49 38](https://github.com/user-attachments/assets/9fa34fd8-5c99-4817-9c32-59651eb15da5)
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+
 
 # Apresentação
 
