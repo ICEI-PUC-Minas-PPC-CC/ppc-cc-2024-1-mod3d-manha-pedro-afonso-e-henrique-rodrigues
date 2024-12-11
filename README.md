@@ -25,6 +25,8 @@ Foto do projeto pronto
 ![image](https://github.com/user-attachments/assets/9d79d0ab-fa21-4d6c-82f7-a8e665609bb8)
 Background usado
 ![WhatsApp Image 2024-12-04 at 00 49 38](https://github.com/user-attachments/assets/9fa34fd8-5c99-4817-9c32-59651eb15da5)
+Parte 2 animacao
+![image](https://github.com/user-attachments/assets/81fa7eec-dba8-43f0-99f3-71d6ffa58171)
 
 
 
